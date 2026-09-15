@@ -30,11 +30,12 @@ A simple and responsive **Personal Portfolio Website** built using **HTML** and 
 portfolio-website/
 │── media/
 │     ├── introVideo.mp4
-│     ├── laxmi.jpg
-│     └── portfolio-preview.png
+│     ├── preview.PNG
+│     ├── preview2.png
+│     └── thumbnail.jpeg
 │
 │── index.html
-│── README.md
+│── readme.md
 └── style.css
 ```
 
